@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "social_settings",
+  "info": {
+    "singularName": "social-setting",
+    "pluralName": "social-settings",
+    "displayName": "SocialSetting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "InstagramURL": {
+      "type": "string"
+    },
+    "FacebookURL": {
+      "type": "string"
+    },
+    "TwitterURL": {
+      "type": "string"
+    },
+    "LinkedinURL": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

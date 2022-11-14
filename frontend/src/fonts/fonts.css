@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Leelawadee';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Leelawadee'), url('leelawad.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DIN NEXTTM ARABIC';
+  src: url('DINNextLTW23-Light.woff2') format('woff2'), url('DINNextLTW23-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}

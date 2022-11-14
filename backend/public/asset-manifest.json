@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.485a36e6.css",
+    "main.js": "/static/js/main.8c702389.js",
+    "static/media/DINNextLTW23-Light.woff": "/static/media/DINNextLTW23-Light.d5741f113bb2d5d2a2d1.woff",
+    "static/media/leelawad.woff": "/static/media/leelawad.bc96cf642f303419f150.woff",
+    "static/media/DINNextLTW23-Light.woff2": "/static/media/DINNextLTW23-Light.65ca67772ab125446be7.woff2",
+    "static/media/Hero Image-min.svg": "/static/media/Hero Image-min.ab75edbade0f9acfd4bdd5d4f12f28c9.svg",
+    "static/media/Card Image 3-min.svg": "/static/media/Card Image 3-min.5aa7e19b38c95be91198108a5cd7835e.svg",
+    "static/media/Team Image 3-min.svg": "/static/media/Team Image 3-min.88352a3f3caa6356df37620e5abc7e7c.svg",
+    "static/media/Card Image 6-min.svg": "/static/media/Card Image 6-min.fb18681ce0c840662dbd5c88828c0878.svg",
+    "static/media/Card Image 4-min.svg": "/static/media/Card Image 4-min.947d0ecf39e56f34a2848a1c9cf5d3f9.svg",
+    "static/media/Card Image 1-min.svg": "/static/media/Card Image 1-min.ea35b9e90276dafa2920ee106c6600b0.svg",
+    "static/media/Card Image 5-min.svg": "/static/media/Card Image 5-min.366c48711fc47ed6c9a754fd5884bc41.svg",
+    "static/media/About Section Image-min.svg": "/static/media/About Section Image-min.975c494839ed2949d0cf61a72793ead9.svg",
+    "static/media/Team Image 1-min.svg": "/static/media/Team Image 1-min.4c3b6dba00928bbe677966a2755fc8ac.svg",
+    "static/media/Circles Image-min.svg": "/static/media/Circles Image-min.41b8cc4e83e4db7958eb1f24ede2ce75.svg",
+    "static/media/Card Image 2-min.svg": "/static/media/Card Image 2-min.f3c402f0806830de8ec20ab20bc973d3.svg",
+    "static/media/Team Image 2-min.svg": "/static/media/Team Image 2-min.0278200c161352510df7ceb6c63bc143.svg",
+    "static/media/DashboardTextLogo.svg": "/static/media/DashboardTextLogo.7b37a59253b767546b271ca29c70f7da.svg",
+    "static/media/logo.svg": "/static/media/logo.ad0073dc9a7dfe2c4f6e94e9b9b26835.svg",
+    "static/media/waves-min.svg": "/static/media/waves-min.bb1199610b4ef1812fd619bc19d11db3.svg",
+    "index.html": "/index.html",
+    "static/media/squareLogo.svg": "/static/media/squareLogo.2e5ab1456e55791200e6c94570028b18.svg",
+    "main.485a36e6.css.map": "/static/css/main.485a36e6.css.map",
+    "main.8c702389.js.map": "/static/js/main.8c702389.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485a36e6.css",
+    "static/js/main.8c702389.js"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "general_settings",
+  "info": {
+    "singularName": "general-setting",
+    "pluralName": "general-settings",
+    "displayName": "GeneralSetting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "WebsiteTitle": {
+      "type": "string",
+      "required": true,
+      "default": "Genius Digital Marketing"
+    }
+  }
+}
