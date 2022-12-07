@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+
+  backend:
+    build:
+      context: .
+    restart: always
+    depends_on:
+      - db
+    environment:
+      DATABASE_HOST: db
+      DATABASE_NAME: gdm_branding
+      DATABASE_USERNAME: root
+      DATABASE_PASSWORD: abc123456
+  db:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: abc123456
+      MYSQL_DATABASE: gdm_branding
+      MYSQL_USER: root
+      MYSQL_PASSWORD: abc123456
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "6666:8080"
+
+
+
